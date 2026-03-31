@@ -3,6 +3,7 @@
 A simple, low stress smartwatch built around a 2.9 inch e ink display, a custom PCB, and a lot of improvised problem solving. This repository contains the Arduino code and the Eagle hardware files for the current working version.
 
 The goal is a comfortable watch that is easy on the eyes, lasts a long time on a charge, and does not behave like a tiny phone.
+![20260219_114707](https://github.com/user-attachments/assets/0e3a4dc1-aa7c-49bf-b5ea-8cf761fa90fe)
 
 ---
 
