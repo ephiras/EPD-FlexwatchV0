@@ -55,3 +55,5 @@ Expect changes as the design evolves.
 
 MIT License.  
 Feel free to use, modify, and build on this project.
+
+Please reach out or credit me if you do use any of my schematics/ pcb layout. I would really appreciate it! would also be great to see what you come up with.
