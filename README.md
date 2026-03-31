@@ -14,10 +14,11 @@ Bluetooth and microphone support are not implemented yet, but the hardware is re
 
 ### hardware
 Eagle schematic and PCB layout for the custom flex board used in the build.
-
+<img width="3319" height="3044" alt="tmp_00848f6a-d5dd-4d53-946b-520c7fa0a136" src="https://github.com/user-attachments/assets/91cd6423-b4a5-41f8-b39c-44028cfb5ca6" />
 ---
 
 ## Current features
+
 
 - 2.9 inch e ink display  
 - Seeed Studio nRF52840 Sense  
