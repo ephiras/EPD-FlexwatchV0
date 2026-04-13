@@ -44,22 +44,23 @@ Eagle schematic and PCB layout for the custom flex board used in the build.
 
 ---
 
-## Notes
 
-This is a work in progress.  
-The hardware files match the version shown in the Instructables build.  
-Expect changes as the design evolves.
 
-## The Zephyr Migration
+# The Zephyr Migration
 I’ve started migrating the firmware for the e‑ink smartwatch from the Arduino environment to Zephyr RTOS. This is a significant step forward for the project and sets up a much more robust foundation for future development.
 
-# Why the migration
+## Why the migration
 - Better power management: Zephyr gives fine‑grained control over sleep states, peripherals, and scheduling, which is essential for a low‑power wearable running on a small battery.
 - Native nRF52840 support: Zephyr’s Nordic integration is far deeper than Arduino’s, with first‑class drivers, BLE stack support, and stable APIs.
 - Modular architecture: The RTOS structure makes it easier to separate display handling, sensors, BLE, and UI logic into clean, maintainable modules.
 - Scalability: As the watch grows beyond a simple prototype, Arduino’s abstractions become limiting. Zephyr provides a long‑term path for more complex features.
 
 ---
+
+## Notes
+This is a work in progress.  
+The hardware files match the version shown in the Instructables build.  https://www.instructables.com/Building-a-Lightweight-Curved-EInk-Smartwatch/
+Expect changes as the design evolves.
 
 ## License
 
