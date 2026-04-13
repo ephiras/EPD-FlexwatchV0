@@ -1,4 +1,6 @@
-# Flexwatch
+# The Inkwell Watch (A curved eink watch)
+
+previously the flexwatch.
 
 A simple, low stress smartwatch built around a 2.9 inch e ink display, a custom PCB, and a lot of improvised problem solving. This repository contains the Arduino code and the Eagle hardware files for the current working version.
 
@@ -61,6 +63,9 @@ I’ve started migrating the firmware for the e‑ink smartwatch from the Arduin
 This is a work in progress.  
 The hardware files match the version shown in the Instructables build.  https://www.instructables.com/Building-a-Lightweight-Curved-EInk-Smartwatch/
 Expect changes as the design evolves.
+
+if you want to, please join the discord
+https://discord.gg/58VtJPHzf
 
 ## License
 
